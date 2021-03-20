@@ -23,10 +23,6 @@
 <br /> <br />
 
 
-
-<img  src="https://github-readme-stats.vercel.app/api?username=urvashi-code1255&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
-
-
 ### Connect with me
 <a href="mailto:shalika.surbhi18@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/shalika-sinha-77b827156/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
